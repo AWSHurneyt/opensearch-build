@@ -124,6 +124,7 @@ OpenSearch Dashboards [Release Notes](https://github.com/opensearch-project/Open
 
 * Alerts in correlations [Experminental] ([#1040](https://github.com/opensearch-project/security-analytics/pull/1040))
 * Alerts in Correlations Part 2 ([#1062](https://github.com/opensearch-project/security-analytics/pull/1062))
+* Threat Intel Analytics ([#1098](https://github.com/opensearch-project/security-analytics/pull/1098))
 
 
 ### Opensearch Security Analytics Dashboards
@@ -134,6 +135,7 @@ OpenSearch Dashboards [Release Notes](https://github.com/opensearch-project/Open
 * Enhanced UI for rendering multiple documents in finding details flyout. ([#1014](https://github.com/opensearch-project/security-analytics-dashboards-plugin/pull/1014))
 * [MDS][Part 2] Added server-side glue code to use data source id when getting opensearch client for making API calls to cluster. ([#1008](https://github.com/opensearch-project/security-analytics-dashboards-plugin/pull/1008))
 * [MDS][Part 3] Wired all UI components to the data source menu. ([#1029](https://github.com/opensearch-project/security-analytics-dashboards-plugin/pull/1029))
+* UX to support threat intel platform ([#1050](https://github.com/opensearch-project/security-analytics-dashboards-plugin/pull/1050))
 
 
 ### Opensearch k-NN
